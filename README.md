@@ -20,3 +20,25 @@ It features a clean pastel design, smooth hover effects, and a success message o
 - **HTML5** – Structure of the form.
 - **CSS3** – Styling with modern layout, animations, and pastel theme.
 - **JavaScript (Vanilla)** – Form submission handling and success message display.
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/matifelitti/Responsive-Contact-Us-Form.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd responsive-contact-us-form
+   ```
+
+3. Run the project:
+
+   ```bash
+   Simply open `index.html` in your favorite browser.
+   ```
